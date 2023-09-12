@@ -1,0 +1,25 @@
+<svg id="Group_13" data-name="Group 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="325" height="134" viewBox="0 0 325 134">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="292" height="134" rx="10" fill="#3045c5"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="325" height="134" rx="10" transform="translate(325 134) rotate(-180)" fill="#3045c5"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="325" height="134" rx="10" transform="translate(0 0)" fill="#1a9ced"/>
+  <g id="Mask_group" data-name="Mask group" transform="translate(0 0)">
+    <g id="Rectangle_5-3" data-name="Rectangle 5" clip-path="url(#clip-path)">
+      <path id="Rectangle_8" data-name="Rectangle 8" d="M17.13,3.627l84.749-3.79a11.269,11.269,0,0,1,11.98,11.98l-4.206,94.047a13.985,13.985,0,0,1-13.1,13.1L11.8,122.756a11.269,11.269,0,0,1-11.98-11.98L4.028,16.729A13.985,13.985,0,0,1,17.13,3.627Z" transform="translate(-1.72 54.902) rotate(45)" fill="rgba(255,255,255,0.11)"/>
+      <path id="Rectangle_7" data-name="Rectangle 7" d="M16.08,2.66,78.288-.122a11.269,11.269,0,0,1,11.98,11.98l-3.113,69.6a13.985,13.985,0,0,1-13.1,13.1L11.846,97.34A11.269,11.269,0,0,1-.135,85.36l3.113-69.6A13.985,13.985,0,0,1,16.08,2.66Z" transform="translate(-1.662 71.555) rotate(45)" fill="rgba(255,255,255,0.1)"/>
+      <path id="Rectangle_6" data-name="Rectangle 6" d="M14.943,1.612,52.737-.079A11.269,11.269,0,0,1,64.717,11.9L62.788,55.018a13.985,13.985,0,0,1-13.1,13.1L11.893,69.81A11.269,11.269,0,0,1-.087,57.83L1.841,14.714A13.985,13.985,0,0,1,14.943,1.612Z" transform="translate(-1.599 89.592) rotate(45)" fill="rgba(255,255,255,0.06)"/>
+    </g>
+  </g>
+  <g id="Mask_group-2" data-name="Mask group">
+    <g id="Rectangle_5-4" data-name="Rectangle 5" clip-path="url(#clip-path-2)">
+      <path id="Rectangle_8-2" data-name="Rectangle 8" d="M23.263,9.631l99.6-9.758c7.335-.719,12.7,4.645,11.98,11.98l-8.793,89.752a16.905,16.905,0,0,1-14.583,14.583l-99.6,9.758c-7.335.719-12.7-4.645-11.98-11.98L8.68,24.214A16.905,16.905,0,0,1,23.263,9.631Z" transform="translate(341.559 88.824) rotate(-135)" fill="rgba(255,255,255,0.11)"/>
+      <path id="Rectangle_7-2" data-name="Rectangle 7" d="M20.965,7.138,94.671-.083c7.335-.719,12.7,4.645,11.98,11.98L100.2,77.778A16.905,16.905,0,0,1,85.614,92.36L11.908,99.582C4.573,100.3-.791,94.936-.072,87.6L6.382,21.721A16.905,16.905,0,0,1,20.965,7.138Z" transform="translate(341.697 70.21) rotate(-135)" fill="rgba(255,255,255,0.1)"/>
+      <path id="Rectangle_6-2" data-name="Rectangle 6" d="M18.476,4.437,64.137-.036c7.335-.719,12.7,4.645,11.98,11.98L72.2,51.969A16.905,16.905,0,0,1,57.614,66.551L11.952,71.025c-7.335.719-12.7-4.645-11.98-11.98L3.893,19.02A16.905,16.905,0,0,1,18.476,4.437Z" transform="translate(341.847 50.048) rotate(-135)" fill="rgba(255,255,255,0.06)"/>
+    </g>
+  </g>
+</svg>

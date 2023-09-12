@@ -1,0 +1,154 @@
+.conatent-body {
+  background-color: #eff2ff;
+}
+
+.neumorphic-nav-bar {
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+  border-radius: 0rem 0rem 2rem 0rem;
+  background-color: #ffffff;
+  z-index: 10;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.sidebar-iconColor {
+  fill: red !important;
+}
+
+.just-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.just-start {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.just-end {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.layout-div {
+  height: 100vh;
+}
+.layout-content {
+  margin-top: 4rem;
+}
+.mtp-6 {
+  margin-top: 6rem;
+}
+
+.neumorphic-side-bar {
+  height: 100%;
+  color: black;
+  overflow: hidden;
+  background-color: #eff2ff !important;
+  transition: all 0.3s ease;
+}
+
+.sidebarOptions {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+  border-radius: 0rem 2rem 2rem 0rem;
+
+  border-bottom: 2px solid #eff2ff;
+  background-color: #ffff;
+  color: #414141;
+  font-weight: 500;
+}
+.sidebarItem-active {
+  background-color: #eff2ff;
+  width: 100%;
+  padding: 5% 0% 5% 5%;
+  margin-left: 10%;
+  border-radius: 2rem 0px 0px 2rem;
+  color: #1a9ced;
+}
+.sidebarItem-notActive {
+  padding: 5% 0% 5% 15%;
+  width: 100%;
+  background-color: #ffff;
+}
+.sidebarItem-notActive-last {
+  padding: 5% 0% 5% 15%;
+  width: 100%;
+  background-color: #ffff;
+  border-radius: 0rem 2rem 0rem 0rem;
+}
+.sidebarItem-notActive-before {
+  padding: 5% 0% 5% 15%;
+  width: 100%;
+  background-color: #ffff;
+  border-radius: 0rem 0rem 2rem 0rem;
+}
+.mobile-hide {
+  display: block;
+}
+@media screen and (max-width: 950px) {
+  .mobile-hide {
+    display: none;
+  }
+}
+
+/* ________________________________{cardStyle}__________________________________ */
+
+.cardStyle-blue {
+  background-image: url('../assets/cardblueicon.svg');
+  background-repeat: no-repeat;
+  height: 10vw;
+  width: 18vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: 100% 100%;
+  color: #ffffff;
+}
+.cardStyle-orange {
+  background-image: url('../assets/orangeCard.svg');
+  background-repeat: no-repeat;
+  height: 10vw;
+  width: 18vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: 100% 100%;
+  color: #ffffff;
+}
+.cardStyle-darkBlue {
+  background-image: url('../assets/darkBlue.svg');
+  background-repeat: no-repeat;
+  height: 10vw;
+  width: 18vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: 100% 100%;
+  color: #ffffff;
+}
+.cardStyle-darkOrange {
+  background-image: url('../assets/darkOrange.svg');
+  background-repeat: no-repeat;
+  height: 10vw;
+  width: 18vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: 100% 100%;
+  color: #ffffff;
+}
+
+.chartCard {
+  padding: 15px;
+  border-radius: 1rem;
+  height: 18vw;
+  height: 18vw;
+  overflow: auto;
+
+  min-width: 100%;
+  background: #ffff;
+}
