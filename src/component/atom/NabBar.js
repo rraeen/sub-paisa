@@ -13,7 +13,7 @@ function NavBar() {
           <img src={subpaisa_logo} alt="" />
         </Col>
         <Col className="just-start" style={{ paddingLeft: '10%' }}>
-          Welcom back
+          Welcom back Raunak
         </Col>
         <Col className="mobile-hide">
           <div
